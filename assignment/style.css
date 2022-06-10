@@ -1,5 +1,26 @@
 /* Give your page a fun background color */
-
+body {
+    background-color: fuchsia;
+}
+header{
+    background-color: lightgrey;
+}
+footer{
+    background-color:darkgreen;
+}
+h1{
+    text-align: center;
+}
+p{
+    color: white;
+    font-style: italic;
+}
+img{
+    border: 5px solid #555;
+}
+ul li{
+    font-family:'Courier New', Courier, monospace;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
